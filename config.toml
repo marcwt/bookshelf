@@ -1,0 +1,7 @@
+baseURL = "https://marcwt.github.io/bookshelf/"
+languageCode = "en-us"
+
+title = "my Book Reviews"
+
+Author = "me me"
+disqusShortname = "marcwt"
